@@ -6,20 +6,20 @@ I am a passionate Data Engineer with a strong foundation in cloud computing and 
 
 💬 Primary Skills
 
-- **Cloud Services:** AWS (EC2,EMR, S3, Glue, Lambda, Redshift, CloudWatch), Snowflake
-- **Programming Languages:** Python (Pyspark, Pandas, NumPy), SQL
-- **Data Orchestration:** Apache Airflow
-- **Data Warehousing:** Snowflake, Redshift
-- **Data Visualization:** Tableau, Excel
-- **Big Data Processing:** Apache Spark (PySpark, Spark SQL)
-- **Containerization:** Docker
+- Cloud Services: **AWS (EC2,EMR, S3, Glue, Lambda, Redshift, CloudWatch), Snowflake**
+- Programming Languages: **Python (Pyspark, Pandas, NumPy), SQL**
+- Data Orchestration: **Apache Airflow**
+- Data Warehousing: **Snowflake, Redshift**
+- Data Visualization: **Tableau, Excel**
+- Big Data Processing: **Apache Spark (PySpark, Spark SQL)**
+- Containerization: **Docker**
 
 🧑🏻‍🏫 Here's what  I am currently learning:
 - Expanding my knowledge in advanced cloud services and distributed computing.
 - Enhancing my expertise in data orchestration tools like Apache Airflow
 - Learning how to architect more efficient and scalable data systems
 
-📫 Here's how you can reach me: [LinkedIn](http://www.linkedin.com/in/ravi-shankar-p-r-a2a51a200) | [GitHub](https://github.com/ravishankar324) | [Portfolio](https://ravishankarpoosa.wixsite.com/portfolio) | ravishankarpoosa@gmail.com
+📫 Here's how you can reach me: [LinkedIn](http://www.linkedin.com/in/ravi-shankar-p-r-a2a51a200) | [Portfolio](https://ravishankarpoosa.wixsite.com/portfolio) | ravishankarpoosa@gmail.com
 
 🤘 Here are some of my projects:
 - [FDA Drug Adverse Events ETL Project](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project) - End-to-End ETL pipeline using Python, AWS, Snowflake, and Tableau.
