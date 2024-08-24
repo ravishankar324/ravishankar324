@@ -22,12 +22,17 @@ I am a passionate Data Engineer with a strong foundation in cloud computing and 
 📫 Here's how you can reach me: [LinkedIn](http://www.linkedin.com/in/ravi-shankar-p-r-a2a51a200) | [Portfolio](https://ravishankarpoosa.wixsite.com/portfolio) | ravishankarpoosa@gmail.com
 
 🤘 Here are some of my projects:
-- [FDA Drug Adverse Events ETL Project](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project) - End-to-End ETL pipeline using Python, AWS, Snowflake, and Tableau.
+- [FDA Drug Adverse Events ETL Project](https://github.com/ravishankar324/FDA-Drug-Adverse-events-ETL-Project) - End-to-End ETL pipeline using Python(Pandas), AWS Services, Docker, Airflow, Snowflake, and Tableau.
 - [Real-Time Insurance Claims Data ETL Pipeline](https://github.com/ravishankar324/Real-Time-Insurance-claims-Data-ETL-Pipeline) - Real-time data processing using Airflow, EC2, Snowflake, and Tableau.
-- [YouTube Data Analysis ETL Using AWS Cloud Services](https://github.com/ravishankar324/Youtube-Data-Analysis-ETL-Using-AWS-Cloud-Services) - ETL and data analytics using AWS Glue, Redshift, and Tableau.
+- [YouTube Data Analysis ETL Using AWS Cloud Services](https://github.com/ravishankar324/Youtube-Data-Analysis-ETL-Using-AWS-Cloud-Services) - ETL and data analytics using AWS Services.
+- [Washington state electric vehicles ETL pipeline](https://github.com/ravishankar324/Washington-state-electric-vehicles-ETL-pipeline) - End-to-end ETL project using Apache spark, AWS services, snowflake, docker, Airflow and tableau.
 
+🤘 Checkout my tableau Dashboards
+- [TABLEAU DASHBOARDS](https://public.tableau.com/app/profile/ravi.shankar.p.r/vizzes)
+  
 📝 Here is my most recent achievements:
 - **AWS Certified Solutions Architect – Associate**
+  
 
 If you want to discuss something or collaborate, feel free to ping me on [LinkedIn](http://www.linkedin.com/in/ravi-shankar-p-r-a2a51a200).
 
